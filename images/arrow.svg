@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="25px" viewBox="0 0 33 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="webbsidan" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-1376.000000, -1286.000000)" fill="#FFFFFF">
+            <g id="arrow" transform="translate(1376.000000, 1286.000000)">
+                <polygon id="Shape" fill-rule="nonzero" points="20.9090909 25 19 23 29.1563636 12.5 19 2 20.9090909 0 33 12.5"></polygon>
+                <rect id="Rectangle-3" x="0" y="11" width="31" height="3"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
